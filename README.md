@@ -44,7 +44,7 @@ Model fitting can be run using the following command:
 
 This will also take a couple of minutes. Results of model fitting are saved as a text file to ```data/02-results/fitting_results_separate.csv``` and ```data/02-results/fitting_results_separatecovariate.csv```.
 
-## 5. Examine results
+## 4. Examine results
 
 The results can be examined using the notebook ```notebooks/stan-plots```. The produced plots are saved to ```data/02-results```. Figures 3 and 4 from the paper are re-produced here. 
 
