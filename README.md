@@ -24,7 +24,17 @@ Deactivate virtual environment
 
 ## 2. Check raw data
 
-The folder paths are configured in ```CONFIG.py```. The data is read from ```data/01-fit-data/filter=True``` by default (make sure to add the data file here). 
+The folder paths are configured in ```CONFIG.py```. The data is read from ```data/01-fit-data/filter=True``` by default (make sure to add the data file here). The columns in the data can be interpreted as follows:
+
+| Name | Definition                |
+|------|---------------------------|
+| y    | visit time                |
+| N    | # observations            |
+| i    | indicator for picture     |
+| d    | indicator for description |
+| K    | number of groups          |
+| x    | group indicator           | 
+
 
 ## 3. Fit the models
 
