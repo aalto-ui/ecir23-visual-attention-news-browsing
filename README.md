@@ -22,11 +22,7 @@ Deactivate virtual environment
 
     deactivate
 
-## 2. Add raw data
-
-Please download the raw data from: 
-
-    [URL]
+## 2. Check raw data
 
 The folder paths are configured in ```CONFIG.py```. The data is read from ```data/01-fit-data/filter=True``` by default (make sure to add the data file here). 
 
