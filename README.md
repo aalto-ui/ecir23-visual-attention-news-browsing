@@ -35,6 +35,7 @@ The folder paths are configured in ```CONFIG.py```. The data is read from ```dat
 | K    | number of groups          |
 | x    | group indicator           | 
 
+Note that data is given for three foveal areas (number at the end of the file name indicating radii). To change which file is read, change ```RADIUS``` in ```CONFIG.py```.
 
 ## 3. Fit the models
 
