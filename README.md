@@ -2,6 +2,8 @@
 
 *By Aini Putkonen, Aurélien Nioche, Markku Laine, Crista Kuuramo & Antti Oulasvirta*
 
+Copyright (c) Aalto University
+
 This repository accompanies the paper "Fragmented Visual Attention in Web Browsing: Weibull Analysis of Item Visit Times", published at ECIR '23. 
 
 # 1. Set up virtual environment
