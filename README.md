@@ -4,7 +4,7 @@
 
 Copyright (c) Aalto University
 
-This repository accompanies the paper "Fragmented Visual Attention in Web Browsing: Weibull Analysis of Item Visit Times", published at ECIR '23. 
+This repository accompanies the paper "Fragmented Visual Attention in Web Browsing: Weibull Analysis of Item Visit Times", published at ECIR '23 licensed under CC BY 4.0 (http://creativecommons.org/licenses/by/4.0/). 
 
 # 1. Set up virtual environment
 
@@ -57,7 +57,18 @@ Note that some of the variables in the repository are named differently to the p
 
 ## Cite
 
-TBD
+Please cite:
+
+    @InProceedings{10.1007/978-3-031-28238-6_5,
+                 author="Putkonen, Aini and Nioche, Aur{\'e}lien and Laine, Markku and Kuuramo, Crista and Oulasvirta, Antti",
+                 editor="Kamps, Jaap and Goeuriot, Lorraine and Crestani, Fabio and Maistro, Maria and Joho, Hideo and Davis, Brian and Gurrin, Cathal and Kruschwitz, Udo and Caputo,     Annalina",
+    title="Fragmented Visual Attention in Web Browsing: Weibull Analysis of Item Visit Times",
+    booktitle="Advances in Information Retrieval",
+    year="2023",
+    publisher="Springer Nature Switzerland",
+    pages="62--78",
+    isbn="978-3-031-28238-6"
+    }
 
 ## Contact
 
